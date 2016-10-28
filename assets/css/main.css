@@ -2154,6 +2154,7 @@
 		/* Header */
 
 			#header h1 {
+				color: #ffffff;
 				margin: 0.25em 0 1em 0;
 			}
 
@@ -2504,7 +2505,7 @@
 			}
 
 				#header h1 {
-					color: #252122;
+					color: #ffffff;
 					font-weight: 900;
 					font-size: 1.75em;
 					letter-spacing: -0.035em;
